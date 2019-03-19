@@ -1,0 +1,17 @@
+body{
+    background: #eeeeee !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000000e7 !important;
+}
+.navbar-light{
+    border-bottom: 2px solid #18ffff !important;
+}
+/* section-1 CSS */
+#section-1{
+    width: 95%;
+}
+#section-1 .content-center{
+      position:relative;
+      top: calc(50% - 10px);
+}
